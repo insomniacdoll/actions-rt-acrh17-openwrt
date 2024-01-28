@@ -14,4 +14,6 @@
 #sed -i 's/192.168.1.1/192.168.50.5/g' package/base-files/files/bin/config_generate
 
 # Modify aliyundrive-webdav
+echo 'start modify aliyundrive-webdav Makefile'
 sed -i 's/stripped/release/g' feeds/packages/multimedia/aliyundrive-webdav/Makefile
+echo 'modify aliyundrive-webdav Makefile OK'
