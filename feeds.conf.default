@@ -7,7 +7,7 @@ src-git oui https://github.com/zhaojh329/oui.git
 src-git kenzo https://github.com/kenzok8/openwrt-packages
 src-git small https://github.com/kenzok8/small
 #src-git small8 https://github.com/kenzok8/small-package
-src-git helloworld https://github.com/fw876/helloworld
+#src-git helloworld https://github.com/fw876/helloworld
 #src-git video https://github.com/openwrt/video.git
 #src-git targets https://github.com/openwrt/targets.git
 #src-git oldpackages http://git.openwrt.org/packages.git
